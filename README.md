@@ -24,3 +24,7 @@ The focus is on **clarity, correctness, and explanation**, not on production set
 
 ## Notes
 This repository is intended for interview practice, not as a production project.
+
+
+Shift + Alt + A for /* ... */
+
